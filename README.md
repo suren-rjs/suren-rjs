@@ -1,5 +1,5 @@
-<h1 align="center">Suren-Rjs</h1>
-<h3 align="center">Flutter and Javascript Developer</h3>
+<h1 align="center">Suren.</h1>
+<h3 align="center">Coding Fun & Focused on the intersection of product excellence and human potential.</h3>
 
 <p align="center">
 <a href="https://github.com/drkostas">
