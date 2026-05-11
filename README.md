@@ -1,8 +1,18 @@
-<h1 align="center">Suren.</h1>
-<h3 align="center">Coding Fun & Focused on the intersection of product excellence and human potential.</h3>
-
+<h1 align="center">Suren  | Software Engineer</h1>
+<h3 align="center">My life is like a Kafka cluster: highly distributed, occasionally out of sync, and I’m just trying to keep the leader election from failing. I turn coffee into code!</h3>
 <p align="center">
-<a href="https://github.com/drkostas">
-    <img src="https://github-stats-alpha.vercel.app/api?username=suren-rjs&cc=271e2f&tc=fee&ic=fbe&bc=fbe">
-</a>
+    
+------------------------------
+    
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 90% Coffee
+    
+[▓▓▓▓▓▓▓▓▓▓░░░░░░░] 60% Java/Spring
+
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% kubectl logs -f
+
+------------------------------
+
+</p>
+<p align="center">
+    I don't always test my code, but when I do, I do it in production.
 </p>
