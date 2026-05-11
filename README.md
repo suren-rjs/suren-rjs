@@ -6,7 +6,7 @@
     
 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 90% Coffee
     
-[▓▓▓▓▓▓▓▓▓▓░░░░░░░] 60% Java/Spring
+[▓▓▓▓▓▓▓▓▓▓▓▓░░░░░] 75% Java & Spring / Node & React.js
 
 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% kubectl logs -f
 
